@@ -17,7 +17,6 @@
       Historia
     </p>
     </v-img>
-
     <card>
       <v-row>
         <v-col md="1"></v-col>
