@@ -1188,8 +1188,8 @@
                      line-height: 1.5;
                      font-weight: bold;
                    "
-                   @click=fnLimpiar
-                 >
+                   @click=fnCerrarDialog
+                   >
                    Carreras TSU
                  </v-btn>
                 </router-link>
@@ -1218,7 +1218,8 @@
                      line-height: 1.5;
                      font-weight: bold;
                    "
-                   @click=fnLimpiar
+                   @click=fnCerrarDialog
+
                  >
                    Carreras Licenciatura
                  </v-btn>
