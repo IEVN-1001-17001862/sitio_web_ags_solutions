@@ -35,7 +35,6 @@
     </div>
   </div>
 </template>
-
 <style scoped>
 .container {
   display: flex;
@@ -43,7 +42,6 @@
   align-items: flex-start;
   margin-left: 12%;
 }
-
 .message-container {
   display: flex;
   justify-content: space-between;

@@ -15,9 +15,7 @@
         </router-link>
 
       </div>
-
       <v-spacer></v-spacer>
-
       <!-- Botón de Soy Estudiante -->
       <v-btn text class="white--text"  @click="openDialogSoyEstudiante">
         <v-icon>mdi-account</v-icon>
